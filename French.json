@@ -1,0 +1,6 @@
+{
+  "ContainerEmpty": "Vide",
+  "ContainerOneItem": "1 item (Utilisable)",
+  "ContainerFull": "Rempli",
+  "ContainerNonempty": "{0} items (Utilisable)"
+}
