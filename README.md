@@ -1,4 +1,3 @@
-# FrenchTranslation for StorageInfo
-I used it in my game, it worked well
+# FrenchTranslation for StorageInfo=
 
-This is simply the french translation for the 'StorageInfo' Subnautica mod.
+This is simply the french translation for the 'StorageInfo' Subnautica mod at https://www.nexusmods.com/subnautica/mods/229.
